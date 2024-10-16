@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# Text File Concatenator with Enhanced Features
-
 # Function to display usage
 usage() {
     echo "Usage: $0 -o output_file input_files..."
